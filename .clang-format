@@ -13,6 +13,7 @@ AllowShortFunctionsOnASingleLine: Empty
 AlwaysBreakTemplateDeclarations: Yes
 BinPackArguments: false
 BinPackParameters: false
+BreakAfterAttributes: Leave
 ColumnLimit: 88
 FixNamespaceComments: true
 IndentWidth: 4
